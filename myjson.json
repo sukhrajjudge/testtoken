@@ -1,7 +1,7 @@
 {
-  "name": "nTether USD",
-  "symbol": "nUSDT",
+  "name": "Tether USD",
+  "symbol": "USDT",
   "decimals": 6,
-  "description": "An independent token on TRON.",
+  "description": "Tether USD",
   "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/USDT_Logo.png"
 }
